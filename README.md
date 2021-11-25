@@ -1,8 +1,8 @@
 # Como usar o eslint na glitch
 
-1 - Em seu projeto, crie um novo arquivo e nomeie-o .eslintrc.json
+1 - Na raiz do seu projeto, crie um novo arquivo e nomeie-o de .eslintrc.json
 
-2 - Em seguida, vá para [esse link](https://glitch.com/edit/#!/eslint-config) e copie o código
+2 - Em seguida, vá para [esse projeto](https://glitch.com/edit/#!/eslint-config) ou o [daqui mesmo](https://github.com/HarukaYamamoto0/Use-Eslint-In-Glitch/blob/main/.eslintrc.json) e copie o código
 do arquivo .eslintrc.json.
 
 3 - Agora, cole este código no novo arquivo .eslintrc.json que você criou em seu projeto
